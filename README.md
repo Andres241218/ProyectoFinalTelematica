@@ -7,4 +7,3 @@ git clone https://github.com/Andres241218/ProyectoFinalTelematica.git .
 
 2. Para ejecturar el servicio se usa el siguiente comando:
   sudo docker run -it -p 80:80 proyectofinal:01 python3 app.py                                                                
- 
