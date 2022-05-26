@@ -1,6 +1,6 @@
 # ProyectoFinalTelematica
 primero clonar el repositorio con el siguiente comando: 
-git clone https://github.com/Tumaco/ProyectoFinalTelematica.git .
+git clone 
 
 1. Para iniciar el contenedor se ejecuta el siguiente comando:
   sudo docker build -t proyectofinal:01 .
